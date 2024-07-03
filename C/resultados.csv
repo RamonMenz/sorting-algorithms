@@ -1,0 +1,6 @@
+Algoritmo;50 mil inteiros;100 mil inteiros;150 mil inteiros;200 mil inteiros
+Bubble Sort;    6192.5;   25233.0;   61883.5;  103283.7
+Selection Sort;    2521.8;   10109.0;   23521.9;   40607.2
+Insertion Sort;    1409.5;    5648.9;   13013.3;   22831.9
+Quick Sort;       5.1;      10.7;      18.6;      23.2
+Merge Sort;       6.8;      14.3;      26.3;      31.0
