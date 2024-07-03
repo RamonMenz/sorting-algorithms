@@ -32,11 +32,11 @@ Para executar o projeto, siga estas etapas:
    - O código-fonte em C está localizado no diretório "C".
    - Compile o arquivo "comparacao.c" para gerar o executável:
      ```
-     gcc -o comparacao comparacao.c
+     gcc -o /C/comparacao /C/comparacao.c
      ```
    - Execute o programa:
      ```
-     ./comparacao
+     ./C/comparacao
      ```
 
 3. **Visualização dos Gráficos:**
